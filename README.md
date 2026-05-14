@@ -109,10 +109,7 @@ Bricks_by_Bricks/
 - Git
 
 ### 1. Clone the repo
-```bash
-git clone https://github.com/Samir-477/Finsight.git
-cd Finsight/Bricks_by_Bricks
-```
+
 
 ### 2. Create your `.env` file
 ```bash
