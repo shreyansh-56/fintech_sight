@@ -225,6 +225,4 @@ Pull requests welcome. Please open an issue first to discuss what you'd like to 
 
 ---
 
-## License
 
-MIT © 2026 Samir
